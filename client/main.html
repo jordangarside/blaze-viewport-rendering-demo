@@ -1,0 +1,15 @@
+<template name="main">
+	<div class="mainContainer">
+		<ul class="blocks">
+			{{#each results}}
+				{{> block this}}
+			{{/each}}
+		</ul>
+		<div class="loading-icon-container">
+			{{#unless Session 'resultSetReady'}}
+				<span class="loading-icon fa fa-spinner fa-pulse"></span>
+			{{/unless}}
+		</div>
+		{{> colorChooser}}
+	</div>
+</template>

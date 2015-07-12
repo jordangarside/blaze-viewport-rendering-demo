@@ -1,0 +1,14 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "app/client/lib/scrollMonitor.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/lib/scrollMonitor.js?e115ac96a645854fd406993f5d6f55ff6a1a462e",
+      "size": 10768,
+      "hash": "e115ac96a645854fd406993f5d6f55ff6a1a462e"
+    }
+  ]
+}
