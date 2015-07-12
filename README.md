@@ -1,1 +1,1 @@
-# meteor-viewport-rendering-demo
+# blaze-viewport-rendering-demo

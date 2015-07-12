@@ -548,9 +548,9 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/template.main.js?98653f055762d647c880d6d7504a3a597a149802",
-      "size": 943,
-      "hash": "98653f055762d647c880d6d7504a3a597a149802"
+      "url": "/client/template.main.js?2c0b16edb4e29012b862fab24eab6234daff7b57",
+      "size": 997,
+      "hash": "2c0b16edb4e29012b862fab24eab6234daff7b57"
     },
     {
       "path": "app/client/lib/scrollMonitor.js",
@@ -566,11 +566,11 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/client/resultSet/block/block.coffee.js?3c983e218ea0a11fe8d3642ebe45415820d2de5b",
+      "url": "/client/resultSet/block/block.coffee.js?88317d8f880c7deb074fe72ee1c724392956d205",
       "sourceMap": "app/client/resultSet/block/block.coffee.js.map",
-      "sourceMapUrl": "/client/resultSet/block/3c983e218ea0a11fe8d3642ebe45415820d2de5b.map",
-      "size": 1253,
-      "hash": "3c983e218ea0a11fe8d3642ebe45415820d2de5b"
+      "sourceMapUrl": "/client/resultSet/block/88317d8f880c7deb074fe72ee1c724392956d205.map",
+      "size": 1102,
+      "hash": "88317d8f880c7deb074fe72ee1c724392956d205"
     },
     {
       "path": "app/client/colorChooser/colorChooser.coffee.js",
